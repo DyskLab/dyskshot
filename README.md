@@ -7,7 +7,7 @@
 <p align="center">A menu bar app for screenshots and screen recordings on macOS: capture, annotate, record, edit, compress, and share.</p>
 
 <p align="center">
-  <a href="https://dysklab.fanny.dev"><img src="https://img.shields.io/badge/part%20of-DyskLab-A855F7" alt="Part of DyskLab"></a>
+  <a href="https://dysklab.fanny.dev/en/products/dyskshot/"><img src="https://img.shields.io/badge/part%20of-DyskLab-A855F7" alt="Part of DyskLab"></a>
   <a href="https://buymeacoffee.com/fannydevz"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?logo=buymeacoffee&logoColor=000" alt="Buy Me a Coffee"></a>
 </p>
 
@@ -25,6 +25,12 @@ same way and can be trimmed, resized, compressed, or turned into GIFs.
   through untouched.
 
 ## Get it
+
+Download the DMG from [Releases](https://github.com/DyskLab/dyskshot/releases/latest) (macOS 15 or later, Apple Silicon),
+open it, and drag DyskShot to Applications. The app isn't notarized yet, so allow the first launch in **System Settings >
+Privacy & Security > Open Anyway**.
+
+### Build from source
 
 **Requires:** macOS 15 or later and the Xcode Command Line Tools (`xcode-select --install`).
 
